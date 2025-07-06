@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">Zingo</string>
+    <string name="FAQs"><![CDATA[
+Zingo - Frequently Asked Questions (FAQs)\n\n
+
+1. What should I do if my payment fails, but the money is debited?
+\nIf your payment fails but the amount has been debited from your account, don’t worry. The amount will be automatically refunded to your original payment method within 4–5 business days.
+\nIf it doesn’t reflect in your account by then, feel free to reach us at support@zingo.com or call our 24×7 helpline at 123456789. We are always happy to help!
+
+\n\n2. How can I track my order on Zingo?
+\nOnce your order is placed, head over to the ‘My Orders’ section to view live updates. You’ll be able to see the restaurant preparing your food, the delivery partner’s location, and the estimated arrival time — all in real-time!
+
+\n\n3. Can I cancel my order after placing it?
+\nYes, orders can be canceled within 60 seconds of placement without any charges. After this window, if the restaurant has started preparing your order, cancellation may not be possible or may involve a small charge.
+\nWe recommend reviewing your order carefully before confirming.
+
+\n\n4. What if the food delivered is wrong or of poor quality?
+\nAt Zingo, your satisfaction is our top priority. If you receive the wrong item or if the food quality is unsatisfactory, please use the ‘Report an Issue’ button in the order summary. Our team will review the case and issue a full/partial refund or replacement, depending on the situation.
+
+\n\n5. Is contactless delivery available?
+\nYes! Simply choose ‘Contactless Delivery’ at checkout, and our delivery partner will drop the food at your doorstep while maintaining full safety and hygiene protocols.
+
+\n\n6. How do I apply promo codes or discounts?
+\nBefore making the payment, you’ll see a section titled “Apply Promo Code” on the checkout screen. Select a valid offer or enter a coupon manually to enjoy savings.
+\nPro tip: Keep an eye on the Zingo Offers section for the hottest deals!
+
+\n\n7. Are there delivery charges on every order?
+\nDelivery charges vary depending on your location, distance from the restaurant, and current demand. However, for Zingo Prime members, most deliveries come free or with exclusive discounts.
+
+\n\n8. How do I become a Zingo Prime member?
+\nZingo Prime is our premium membership offering faster delivery, zero delivery charges on selected restaurants, and special discounts.
+\nYou can subscribe via the “Zingo Prime” tab in the app and start enjoying the perks instantly!
+
+\n\n9. Can I schedule an order in advance?
+\nAbsolutely! Zingo lets you schedule your meal in advance. Just choose the restaurant, pick your food, and select the “Schedule for Later” option at checkout. Your order will be delivered right on time.
+
+\n\n10. How can I contact Zingo support?
+
+\n\nWe’re here for you!
+
+\n\n📧 Email: support@zingo.com
+
+\n\n📞 Phone: 123456789
+
+\n\n💬 Or chat with us directly through the ‘Help and Support’ section in the app.
+Our team is available 24×7, because great food and great support should never sleep.
+    ]]></string>
+
+    <string name="ABOUT"><![CDATA[
+Zingo…!! - Redefining the Way You Discover and Enjoy Food
+
+\n\nAt Zingo, we believe that food is more than just a necessity — it’s a mood-lifter, a memory-maker, and a comfort zone on a plate. Born from the idea of making food delivery faster, smoother, and more joyful, Zingo is a fresh, bold, and innovative food-tech platform that brings your favorite meals right to your doorstep — hot, fast, and hassle-free.
+
+\n\nWhether it’s a solo snack at midnight, a family dinner, or a surprise meal for someone special, Zingo ensures your food moments are seamless and satisfying. We’ve combined cutting-edge technology with a human touch to create a platform that understands your hunger and delivers happiness — one meal at a time.
+
+\n\nWhat Makes Zingo Different?
+\nSpeed that Satisfies
+\nWe know hunger doesn’t wait. That’s why we’re committed to lightning-fast deliveries, with real-time tracking and live updates, so you know exactly when your food will arrive.
+
+\n\nChoices You will Crave
+\nFrom iconic street food to high-end restaurants, Zingo partners with the best culinary names in your city, ensuring you get the widest range of options tailored to your cravings.
+
+\n\nSmarter Ordering Experience
+\nOur intuitive app learns your taste preferences over time and offers personalized recommendations that make ordering faster and more enjoyable.
+
+\n\nSafety First, Always
+\nWe prioritize hygiene and safety in every step — from restaurant kitchens to our delivery partners — so your meals come with peace of mind and trust.
+
+\n\nSupport That Actually Supports
+\nGot an issue? We’ve got your back. Our 24×7 dedicated customer support team ensures your experience is smooth and stress-free — no matter what.
+
+\n\nThe Vision Behind Zingo
+\nWe’re not just building a food delivery app — we’re building a movement. A movement where food lovers, restaurants, and technology come together to create a smarter, faster, and more delightful food ecosystem. Our goal is to make Zingo not only a service you use — but a brand you love and rely on every day.
+
+\n\nLicensed and Trusted
+\nZingo is proudly licensed under License ID: 123456789, recognized across all Indian states and fully compliant with regulatory standards for all app versions and platforms.
+
+\n\nBuilt with Passion, Driven by You
+\nFrom our first order to our next million — we’re here because you chose us. Every click, every order, every bite means the world to us. And we’ll continue to push boundaries, improve your experience, and make food delivery something you look forward to, every time.
+
+\n\nSo whether you are hungry, lazy, busy, or just craving something special — Zingo’s got your back. Always.
+    ]]></string>
+
+
+    <string name="TERMS"><![CDATA[
+ZINGO  TERMS OF USE
+
+\n\nEffective Date: 7 July 2025
+\nLicense ID:       123456789
+\nApplicable in All Indian States and App Versions
+
+\n\nWelcome to       Zingo      , a proprietary platform developed and operated by       Zingo Technologies Pvt. Ltd.       ("Zingo," "we," "our," or "us"). These Terms of Use ("Terms") govern your access to and use of the Zingo mobile application, website, and related services (collectively, the "Platform"). By accessing or using our Platform, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Platform.
+
+\n\n1.       Eligibility
+\nYou must be at least 18 years old and legally capable of entering into a binding agreement to use the Platform. By using the Platform, you represent and warrant that you meet these eligibility requirements.
+
+\n\n2.       Account Registration
+\nTo access certain services, you must register an account with accurate, complete, and updated information. You are responsible for maintaining the confidentiality of your login credentials and for all activities that occur under your account.
+
+\n\n3.       Use of Platform
+\nYou agree to use the Platform only for lawful purposes and in compliance with all applicable laws and regulations. You shall not misuse the Platform in any manner that could damage, disable, or impair its functionality.
+
+\n\n4.       Service Availability
+\nWe strive to ensure uninterrupted availability of the Platform; however, access may be temporarily suspended due to maintenance, upgrades, or unforeseen technical issues. Zingo is not liable for any disruption or unavailability.
+
+\n\n5.       Ordering and Delivery
+\nZingo acts as a facilitator between users and partner restaurants. We do not prepare food or own the kitchens. Order fulfillment, including preparation and packaging, is the sole responsibility of the respective restaurant.
+
+\n\n6.       Pricing and Payment
+\nPrices displayed are inclusive of applicable taxes and may vary by location. Payments can be made through secure gateways provided in the app. In case of payment failures where the amount is debited, a refund will be initiated within 4–5 business days.
+
+\n\n7.       Cancellation and Refunds
+\n   Orders may be canceled within 60 seconds of placement without charge.
+\n    If the restaurant has already started preparing the order, cancellation requests may be declined or subjected to a cancellation fee.
+\n    Refunds will be processed based on our internal policies and the nature of the complaint.
+
+\n\n8.       Promotions and Offers
+\nPromotional codes, coupons, and offers are subject to their specific terms. Abuse or manipulation of such promotions may lead to account suspension or reversal of benefits.
+
+\n\n9.       Delivery Agents
+\nZingo works with trained delivery partners. While we aim for prompt delivery, delays may occur due to traffic, weather, or operational constraints. We appreciate your patience and understanding in such cases.
+
+\n\n10.       User Conduct
+\nYou agree not to:
+
+  \n  Use the Platform for unlawful purposes.
+  \n  Post or share offensive, defamatory, or misleading content.
+  \n  Attempt to gain unauthorized access to systems or networks.
+  \n  Interfere with the Platform’s performance or security features.
+
+\n\n11.       Restaurant Content
+\nZingo is not responsible for menu accuracy, food quality, preparation method, hygiene, or availability. Any issues must be addressed with the restaurant via our support tools.
+
+\n\n12.       Contactless Delivery
+\nYou may opt for contactless delivery during checkout. In this case, our delivery partner will leave the order at your designated location and notify you. Zingo is not responsible for any theft or spoilage after delivery.
+
+\n\n13.       Feedback and Reviews
+\nYou may submit feedback or reviews regarding your experience. By doing so, you grant Zingo the right to use, reproduce, and display such content for promotional or service improvement purposes.
+
+\n\n14.       Privacy Policy
+\nUse of the Platform is also governed by our Privacy Policy, which outlines how your data is collected, used, stored, and protected. Please review it separately.
+
+\n\n15.       Intellectual Property
+\nAll trademarks, logos, code, and content on the Platform are owned by Zingo or its licensors. You may not copy, modify, distribute, or reproduce any content without written permission.
+
+\n\n16.       ThirdParty Services
+\nWe may use thirdparty services for payments, notifications, analytics, etc. We are not liable for their actions, but we ensure compliance with applicable regulations and best practices.
+
+\n\n17.       Account Suspension or Termination
+\nZingo reserves the right to suspend or terminate accounts that:
+
+    \nViolate these Terms
+    \nEngage in fraudulent activities
+    \nCause harm to other users, partners, or the platform
+
+\n18.       Limitation of Liability
+\nTo the maximum extent permitted by law, Zingo shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use of the Platform or from any food item ordered through it.
+
+\n\n19.       Indemnification
+\nYou agree to indemnify and hold harmless Zingo, its affiliates, officers, directors, and employees from any claims, liabilities, or damages resulting from your use or misuse of the Platform.
+
+\n\n20.       Modification of Terms
+\nZingo reserves the right to modify these Terms at any time. Continued use of the Platform after changes indicates acceptance of the updated Terms. Users are encouraged to review Terms periodically.
+
+\n\n21.       Governing Law and Jurisdiction
+\nThese Terms are governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts located in \[Insert City, e.g., Delhi].
+
+\n\n22.       Force Majeure
+\nZingo shall not be held liable for failure to perform any obligation under these Terms if such failure is due to events beyond our reasonable control, including but not limited to natural calamities, strikes, pandemics, and government restrictions.
+
+\n\n23.       Entire Agreement
+\nThese Terms constitute the entire agreement between the user and Zingo regarding the use of the Platform and supersede any prior agreements.
+
+\n\n24.       Severability
+\nIf any provision of these Terms is found to be unlawful, void, or unenforceable, the remaining provisions shall continue to be valid and enforceable.
+
+\n\n25.       Contact Information
+\nFor any legal notices, feedback, complaints, or questions regarding these Terms:
+
+  \n\n    Email:       [support@zingo.com](mailto:support@zingo.com)
+  \n      Phone:       123456789
+  \n    Registered Office:       \[LPU Jalandhar]
+
+  \n\n    By using Zingo, you agree to these Terms of Use.       Thank you for choosing Zingo!
+    ]]></string>
+
+    <string name="POLICY"><![CDATA[
+ZINGO  PRIVACY POLICY
+
+\n\nEffective Date: 7th July 2025
+\nLicense ID: 123456789
+\nJurisdiction: India (Applicable across all states and app versions)
+
+\nZingo Technologies Pvt. Ltd. ("Zingo," "we," "our," or "us") values the trust you place in us. We are committed to protecting your privacy through responsible and transparent data practices. This Privacy Policy outlines the types of information we collect, how we use it, and the rights you have over your personal data. By accessing or using the Zingo application, website, or services ("Platform"), you agree to this Privacy Policy.
+
+\n\n1. Information We Collect
+\nWe collect the following types of information:
+
+\n\na) Personal Information:
+\nName, mobile number, email address
+\nDelivery address and location data
+\nDate of birth (if voluntarily provided)
+\nPayment method details (processed securely via thirdparty gateways)
+
+\n\nb) Usage Data:
+\nDevice type, model, and unique identifiers (IMEI, MAC address)
+\nIP address, browser type, operating system
+\nApp activity logs, crash reports, and system diagnostics
+
+\n\nc) Location Information:
+\nGPS and networkbased location data when the app is in use (for delivery tracking, order relevance, and user personalization)
+
+\n\nd) Cookies and Tracking Technologies:
+\nSession cookies, persistent cookies, and tracking pixels to personalize your experience and improve our service
+
+\n\n2. How We Use Your Information
+
+\n\nYour information is used strictly for legitimate purposes, including:
+\nProcessing and delivering orders
+\nManaging user accounts and preferences
+\nSending transaction alerts and promotional messages (with optout option)
+\nCustomer service and support
+\nEnsuring security and preventing fraud
+\nImproving app performance, UI/UX, and operational efficiency
+
+\n\n3. Data Sharing and Disclosure
+
+\n\nWe do not sell or rent your personal data. We may share data only under these conditions:
+\nWith delivery partners to fulfill your orders
+\nWith restaurants to process and prepare your selected meals
+\nWith thirdparty service providers (payment gateways, SMS/email vendors, cloud storage, etc.) under strict confidentiality agreements
+\nWith legal authorities when required by law, regulation, or in response to a lawful request
+
+\n\n4. Data Retention
+\nWe retain your personal data only as long as necessary for the purposes listed in this policy or as required by applicable laws. After this period, data is securely deleted or anonymized.
+
+\n\n5. Data Security
+
+\n\nWe implement robust security measures to protect your information:
+\nSSL encryption for data transmission
+\nSecure servers with access controls
+\nRegular security audits and updates
+\nRolebased access within our organization
+
+\n\nDespite our efforts, no method of transmission over the Internet is 100% secure. We shall not be held liable for breaches beyond our reasonable control.
+
+\n\n6. Your Rights
+
+\n\nSubject to applicable law, you have the following rights:
+\nAccess and review your personal data
+\nRequest correction of inaccurate data
+\nRequest deletion of your data
+\nOptout of marketing communications
+\nWithdraw consent where processing is based on consent
+
+\n\nTo exercise any of these rights, contact us at [privacy@zingo.com](mailto:privacy@zingo.com) or use the inapp support.
+
+\n\n7. Privacy of children
+\nOur Platform is not intended for use by children under the age of 18. We do not knowingly collect personal data from minors. If we become aware of such data collection, we will promptly delete the information.
+
+\n\n8. ThirdParty Links
+\nOur Platform may contain links to thirdparty websites or services. We are not responsible for their content, practices, or privacy policies. Users are encouraged to read those policies separately.
+
+\n\n9. Changes to This Policy
+\nWe reserve the right to amend this Privacy Policy at any time. Updates will be posted on the app and website. Continued use of the Platform after such changes signifies your acceptance of the revised policy.
+
+\n\n10. Grievance Officer
+\nIn compliance with the Information Technology Act, 2000 and rules made thereunder, the name and contact details of the Grievance Officer are:
+
+\n\nName: \[Insert Name]
+\nEmail: [grievance@zingo.com](mailto:grievance@zingo.com)
+\nPhone: 123456789
+\nAddress: \[Insert Office Address]
+
+\n\n11. Contact Us
+\nFor any questions or concerns regarding this Privacy Policy, please contact:
+
+\n\nEmail: [privacy@zingo.com](mailto:privacy@zingo.com)
+\nPhone: 123456789
+\nZingo Technologies Pvt. Ltd.
+
+\n\nBy using Zingo, you consent to this Privacy Policy and the data practices described herein.
+    ]]></string>
+
+
+    <string name="MORE"><![CDATA[
+Gift Cards, Vouchers and Refer and Earn – Unlock More with Zingo!
+\n\n1.  First Order Gift – Welcome to Zingo!
+\nNew to Zingo? Get an instant ₹100 off on your first order using promo code: ZINGO100. Because your first bite should be unforgettable!
+
+\n\n2.  Zingo Gift Cards – Give the Gift of Cravings!
+\nSurprise your loved ones with Zingo digital gift cards starting from ₹200 to ₹2000. Perfect for birthdays, thank-yous, or just-because moments.
+
+\n\n3.  Smart Save Vouchers – Every Bite, More Value!
+\nUse your earned vouchers at checkout to save up to 50% on select restaurants. Zingo makes every order feel like a smart choice.
+
+\n\n4.  Daily Zingo Deals – Right in Your Inbox!
+\nGet exclusive daily deals and time-limited promo codes delivered via email, SMS and app notifications. Don’t miss out – they disappear fast!
+
+\n\n5.  Refer and Earn – Share Food, Earn Rewards!
+\nInvite your friends to Zingo and earn ₹75 Zingo Cash for every successful referral.
+\nYour friend gets ₹50 off too. Everyone wins when good food is shared!
+
+\n\n6. Weekly Winner Bonus
+\nEvery week, our top 3 referrers win exciting rewards like free meal coupons, Zingo Prime trials, or ₹500 worth of vouchers. Start referring now!
+
+\n\n7. Combo Coupons – Double the Taste, Half the Price!
+\nApply combo coupons on partner restaurants and enjoy “Buy 1 Get 1 Free” or 25% off on orders above ₹299.
+
+\n\n8.  Birthday Bash Voucher
+\nCelebrate your special day with Zingo! Get a flat 20% off on your birthday order. Because food tastes better on your big day.
+
+\n\n9.  Instant Cashback Offers
+\nPay via selected wallets like Paytm, PhonePe, or ZingoPay and get instant cashback of up to ₹75 on eligible orders. Fast. Easy. Rewarding.
+
+\n\n10.  Zingo Prime Exclusive Coupons
+\nZingo Prime members enjoy exclusive monthly coupon drops, including free delivery and priority discounts on premium outlets.
+
+\n\n11. Corporate Vouchers – Office Lunches, Sorted
+\nNeed to treat your team or clients? Zingo’s Corporate Gifting lets you send bulk vouchers and meal credits with ease and class.
+
+\n\n12. Track Your Rewards Easily
+\nAll your vouchers, referral cash, and gift cards are neatly stored in your “Zingo Wallet” — ready to use whenever hunger strikes!
+     ]]></string>
+
+</resources>

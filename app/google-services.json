@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775982148277",
+    "project_id": "zingo-5aef1",
+    "storage_bucket": "zingo-5aef1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775982148277:android:eb58348be3f6cbe0952cfc",
+        "android_client_info": {
+          "package_name": "com.example.zingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-XNQNasG7MQap3znKVzarHDco-nTM4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
